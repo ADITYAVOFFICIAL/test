@@ -1,8 +1,8 @@
 
-nums - v3 2024-08-14 8:51am
+nums - v4 2024-08-15 11:40am
 ==============================
 
-This dataset was exported via roboflow.com on August 14, 2024 at 8:53 AM GMT
+This dataset was exported via roboflow.com on August 15, 2024 at 11:41 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 1552 images.
+The dataset includes 2261 images.
 Plate are annotated in YOLOv9 format.
 
 The following pre-processing was applied to each image:

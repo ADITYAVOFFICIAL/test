@@ -3,7 +3,7 @@ from ultralytics import YOLO
 import cv2
 
 # Load the pre-trained YOLO model
-model = YOLO("best.pt")  # Replace with the appropriate YOLO version if needed
+model = YOLO("latest.pt")  # Replace with the appropriate YOLO version if needed
 
 # Define the input and output directories
 input_dir = './test_images'
